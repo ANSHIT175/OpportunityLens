@@ -1,10 +1,13 @@
 {
-  "name": "opportunitylens",
-  "version": "2.0.0",
-  "description": "OpportunityLens — Live Web Opportunity Intelligence powered by TinyFish",
+  "name": "opportunitylens-tinyfish",
+  "version": "2.6.0",
+  "description": "OpportunityLens — AI/ML Profile Intelligence + Official TinyFish Web Agent API Integration",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "start:python": "python3 server.py"
   },
-  "dependencies": {}
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }

@@ -1,1 +1,6 @@
-# Standard library only
+# OpportunityLens Backend Requirements
+# Note: server.py runs out-of-the-box with the Python 3.9+ standard library (zero mandatory external packages).
+# Optional packages if using the official TinyFish Python SDK or httpx directly:
+tinyfish>=0.1.0
+httpx>=0.27.0
+python-dotenv>=1.0.1
