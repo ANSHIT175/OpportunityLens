@@ -1,0 +1,10 @@
+{
+  "name": "opportunitylens",
+  "version": "2.0.0",
+  "description": "OpportunityLens — Live Web Opportunity Intelligence powered by TinyFish",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
