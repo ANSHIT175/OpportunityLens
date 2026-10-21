@@ -6,7 +6,7 @@
 
 
 ---
-Websit: https://opportunitylens-k3wq.vercel.app/
+website: https://opportunitylens-k3wq.vercel.app/
 
 ## 🌟 Problem & Solution
 Students waste hours browsing fragmented job boards, dead links, and unverified listings without knowing how well their current skill stack matches real market requirements.
